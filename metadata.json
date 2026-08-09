@@ -1,0 +1,6 @@
+{
+  "name": "Boon Huat Hardware AP Assistant",
+  "description": "AI Accounts Payable Assistant for Boon Huat Hardware & Supplies Pte Ltd helping Madam Lim monitor supplier payment due dates, classify invoice priorities, and generate payment advisories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
